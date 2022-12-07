@@ -1,0 +1,10 @@
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>http://example.org/</loc><lastmod>2022-12-05T13:04:41&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/post/</loc><lastmod>2022-12-05T13:04:41&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/post/%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%8A%A5%E5%91%8A%E5%BF%83%E5%BE%97/</loc><lastmod>2022-12-05T13:04:41&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/post/first/</loc><lastmod>2022-11-28T22:34:18&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/categories/</loc></url><url>
+            <loc>http://example.org/tags/</loc></url></urlset>
